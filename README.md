@@ -42,6 +42,7 @@ Thanks goes out to [vsouza](https://github.com/vsouza) for the inspiration of hi
 * [Web Server Connectivity](#web-server-connectivity)
 	* [HTTP](#http-libraries)
 	* [WebSockets](#websockets)
+* [Cron](#cron)
 
 ## Server Side Swift Frameworks
 Server Side Swift frameworks are projects that provide an infrastructure with which you can build a working Swift API.
@@ -276,6 +277,10 @@ Connectors to Web servers such as Apache, nginx.
 ### MQTT
 
 * [Aphid](https://github.com/IBM-Swift/aphid) - MQTT 3.1 library in (pure) Swift.
+
+### Cron
+
+* [SwiftCron](https://github.com/rymcol/SwiftCron) - Pure Swift Implementation of Scheduled and Repeating Functions. Also has an [example](https://github.com/rymcol/SwiftCron-Example)
 
 ## Contributing
 
